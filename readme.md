@@ -5,8 +5,9 @@ En el presente examen se evaluarán los conocimientos de los estudiantes sobre e
 
 Para el examen se propone crear un catálogo de pelíclas que se mostrarán en una vista Maestro - Detalle.
 
-## Datos del estudiante
+## Datos de los estudiantes
 - [Dario Alexis Hernandez Vilaña]
+- [José Miguel Moya Miranda]
 - [Tercer semestre ingeniería en Software]
 
 ## Objetivos 
